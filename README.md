@@ -20,6 +20,8 @@ By default, the parameter setting bar is hidden, click the icon in the upper lef
 
 The four vertices in the determined range are also locked and not displayed. Click to Unlock to display.
 
+*If you got "Erroe code: E0004 / Error info: Timestamp verification failed.", go into Windows Date/Time settings and just hit "Synch" and then.*
+
 ## Use
 
 The first time you open the radar settings panel, an error will be reported, because you have not loaded the DLL, you need to click the icon in the upper left corner to open the parameter settings panel, and select the path of the DLL.
