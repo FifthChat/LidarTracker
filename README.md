@@ -4,7 +4,6 @@ A lidar tool made by us using Touchdesigner C++ CHOP, which can support HOKUYO, 
 
 Youtube: https://www.youtube.com/watch?v=2V0cCm96xZU&t=9s
 
-*The current version is beta version*
 
 ## Activation
 
