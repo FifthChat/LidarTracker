@@ -37,4 +37,4 @@ There may be some problems with the old version of Touchdesigner. We recommend u
 
 The deadline for this trial test is August 10, 2020, during which LidarTracker components will be used in trial mode.
 
-If you find a bug during use, please contact us：**fifthchat@163.com**
+If you find some bug, please contact us：**fifthchat@163.com**
