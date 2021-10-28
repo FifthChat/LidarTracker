@@ -23,7 +23,7 @@ The four vertices in the determined range are also locked and not displayed. Cli
 
 ## Use
 
-The first time you open the radar settings panel, an error will be reported, because you have not loaded the DLL, you need to click the icon in the upper left corner to open the parameter settings panel, and select the path of the DLL.
+The first time you open the lidar settings panel, an error will be reported, because you have not loaded the DLL, you need to click the icon in the upper left corner to open the parameter settings panel, and select the path of the DLL.
 
 ## Test Environment
 
