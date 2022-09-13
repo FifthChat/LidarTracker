@@ -1,4 +1,4 @@
-# LidarTracker
+# LidarTracker v1.0
 
 A lidar tool made by us using Touchdesigner C++ CHOP, which can support HOKUYO, SLAMTEC and EAI.
 
