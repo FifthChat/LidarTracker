@@ -40,6 +40,27 @@ v3.2.2
 - Solve the problem that the scroll bar in the trigger area is not clear.
 - The trigger areas can now be set by Ctrl + left click.
 
+v3.2.3
+- 添加PHOT雷达的支持
+- 选择Hokuyo与星秒雷达时，串口设置为不可选状态
+- 解决添加区域滑动条无法显示问题
+- Add PHOT Radar support.
+- When selecting Hokuyo and StarSecond Radar, the serial port is set to unselectable state.
+- Solve the problem that the slider in the add area cannot be displayed.
+
+v3.2.4
+- 驱动数据架构重写，增强了稳定性
+- 新增对光觉PHOT雷达支持
+- 新增对EAI TEA系列支持，移除对EAT TX系列与T15的支持
+- UI界面稳定性优化
+- Driver data architecture rewritten to enhance stability.
+- Added support for PHOT radar.
+- Added support for EAI TEA series, removed support for EAT TX series and T15.
+- Stability optimization of UI interface.
+
+v3.2.5
+- 修复获取HOKUYO雷达数据的BUG
+- Fixed a bug in getting HOKUYO radar data.
+
 # Tutorial
 https://www.youtube.com/playlist?list=PLQjcZ7FICSKODL-hvjV5XxAgrxHJwHpOJ
-
