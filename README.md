@@ -1,6 +1,6 @@
 # LidarTracker v3.0
 
-A lidar tool made with Touchdesigner C++ CHOP, which can support HOKUYO, SLAMTEC, EAI and SIMINICS.
+A lidar tool made with Touchdesigner C++ CHOP, which can support HOKUYO, SLAMTEC, EAI, PHOTOPTRY and SIMINICS.
 
 - Connect multiple lidars.
 - Multiple lidars merge.
