@@ -9,6 +9,8 @@ A lidar tool made with Touchdesigner C++ CHOP, which can support HOKUYO, SLAMTEC
 
 This version is only available in Touchdesigner 2022+.
 
+This version is only available for window platforms.
+
 contact us：**support@fifthchat.com**
 
 # 版本说明 | Release Notes
