@@ -47,7 +47,7 @@ v3.2.3
 - 选择Hokuyo与星秒雷达时，串口设置为不可选状态
 - 解决添加区域滑动条无法显示问题
 - Add PHOT Radar support.
-- When selecting Hokuyo and StarSecond Lidar, the serial port is set to unselectable state.
+- When selecting Hokuyo and StarSecond Radar, the serial port is set to unselectable state.
 - Solve the problem that the slider in the add area cannot be displayed.
 
 v3.2.4
@@ -56,13 +56,21 @@ v3.2.4
 - 新增对EAI TEA系列支持，移除对EAT TX系列与T15的支持
 - UI界面稳定性优化
 - Driver data architecture rewritten to enhance stability.
-- Added support for PHOT Lidar.
+- Added support for PHOT radar.
 - Added support for EAI TEA series, removed support for EAT TX series and T15.
 - Stability optimization of UI interface.
 
 v3.2.5
 - 修复获取HOKUYO雷达数据的BUG
-- Fixed a bug in getting HOKUYO Lidar data.
+- Fixed a bug in getting HOKUYO radar data.
 
-# Tutorial
+v3.2.6
+- 修复了UV数据计算错误的BUG
+- Fixed the bug that UV data is calculated incorrectly.
+
+# 特别提醒 | Special Reminder
+- v3.2.4 以上版本处于开放测试中，如遇到问题，可以退回使用 v3.2.3 版本，并请及时通过 **support@fifthchat.com** 邮箱反馈。
+- v3.2.4 or above version is in open test, if you encounter problems, you can return to use v3.2.3 version, and please timely feedback via **support@fifthchat.com** email.
+
+# 教程 | Tutorial
 https://www.youtube.com/playlist?list=PLQjcZ7FICSKODL-hvjV5XxAgrxHJwHpOJ
